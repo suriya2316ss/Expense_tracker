@@ -1,4 +1,4 @@
-# 💸 Expense Tracker (Console App in Python)
+# 💸 Expense Tracker (Using Python)
 
 A simple and effective **command-line expense tracking tool** built using Python. This app allows users to log daily expenses, view all recorded entries, and calculate the total amount spent — all saved in a CSV file.
 
